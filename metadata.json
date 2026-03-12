@@ -1,0 +1,5 @@
+{
+  "name": "AI Financial Reconciliation Assistant",
+  "description": "A local-first AI tool to match invoices with statements using Gemini and File System Access API.",
+  "requestFramePermissions": []
+}
